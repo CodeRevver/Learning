@@ -1,0 +1,12 @@
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\NodaTimeAutoMapping.exe.config
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\NodaTimeAutoMapping.exe
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\NodaTimeAutoMapping.pdb
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\AutoMapper.dll
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\ConsoleDump.dll
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\NodaTime.dll
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\AutoMapper.xml
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\bin\Debug\NodaTime.xml
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\obj\Debug\NodaTimeAutoMapping.csprojResolveAssemblyReference.cache
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\obj\Debug\NodaTimeAutoMapping.csproj.CoreCompileInputs.cache
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\obj\Debug\NodaTimeAutoMapping.exe
+D:\GitWork\Learning\NodaTimeExample\NodaTimeAutoMapping\obj\Debug\NodaTimeAutoMapping.pdb

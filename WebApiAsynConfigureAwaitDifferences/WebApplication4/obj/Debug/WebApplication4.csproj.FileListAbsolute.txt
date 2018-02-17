@@ -1,0 +1,96 @@
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\ApplicationInsights.config
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll.config
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\WebApplication4.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\WebApplication4.pdb
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Net.Http.Formatting.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Http.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Http.WebHost.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\WebGrease.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Newtonsoft.Json.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Net.Http.Formatting.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Helpers.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Http.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Http.WebHost.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Mvc.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Optimization.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.Razor.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\System.Web.WebPages.Razor.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Antlr3.Runtime.pdb
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\bin\Microsoft.AI.Web.xml
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.dll
+C:\Users\PandaMan\Documents\Visual Studio 2017\Projects\WebApplication4\WebApplication4\obj\Debug\WebApplication4.pdb
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\ApplicationInsights.config
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\WebApplication4.dll.config
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\WebApplication4.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\WebApplication4.pdb
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Antlr3.Runtime.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.Agent.Intercept.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.DependencyCollector.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.Web.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.WindowsServer.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.ApplicationInsights.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.Web.Infrastructure.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Newtonsoft.Json.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Net.Http.Formatting.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Helpers.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Http.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Http.WebHost.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Mvc.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Optimization.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Razor.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.WebPages.Deployment.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.WebPages.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.WebPages.Razor.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\WebGrease.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Newtonsoft.Json.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Net.Http.Formatting.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Helpers.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Http.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Http.WebHost.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Mvc.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Optimization.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.Razor.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.WebPages.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.WebPages.Deployment.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\System.Web.WebPages.Razor.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Antlr3.Runtime.pdb
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.ApplicationInsights.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.DependencyCollector.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.WindowsServer.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\bin\Microsoft.AI.Web.xml
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\obj\Debug\WebApplication4.csprojResolveAssemblyReference.cache
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\obj\Debug\WebApplication4.csproj.CoreCompileInputs.cache
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\obj\Debug\WebApplication4.dll
+D:\GitWork\Learning\WebApiAsynConfigureAwaitDifferences\WebApplication4\obj\Debug\WebApplication4.pdb

@@ -1,0 +1,17 @@
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTimeExample.exe.config
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTimeExample.exe
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTimeExample.pdb
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTime.dll
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTime.xml
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\obj\Debug\NodaTimeExample.csprojResolveAssemblyReference.cache
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\obj\Debug\NodaTimeExample.exe
+D:\GitWork\Magnanimous\src\Experimentation\NodaTimeExample\NodaTimeExample\obj\Debug\NodaTimeExample.pdb
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTimeExample.exe.config
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTimeExample.exe
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTimeExample.pdb
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTime.dll
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\bin\Debug\NodaTime.xml
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\obj\Debug\NodaTimeExample.csprojResolveAssemblyReference.cache
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\obj\Debug\NodaTimeExample.csproj.CoreCompileInputs.cache
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\obj\Debug\NodaTimeExample.exe
+D:\GitWork\Learning\NodaTimeExample\NodaTimeExample\obj\Debug\NodaTimeExample.pdb
